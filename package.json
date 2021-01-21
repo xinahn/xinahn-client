@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "immer": "^4.0.0",
+    "immer": "^8.0.1",
     "query-string": "^6.8.3",
     "react": "^16.10.1",
     "react-content-loader": "^4.3.0",
